@@ -1,0 +1,23 @@
+EkranHesaplayicisi Kodu: Sahnedeki nesnelerin hareket alanı kamera ile sınırlar.
+
+GeriSayimSayaci Kodu: Sahnedeki nesnelerin ekran içerisinde yer alma süresinin verisini
+içerisinde tutar ve işlem yapmamızda kolaylık sağlar.
+
+GeriSayimTest Kodu: GeriSayimSayaci koduyla entegre edilerek nesnelerin ekranda kalma
+süresi düzenlenir.
+
+HareketKontrol: Nesnelerin hareketinin kamera dışına çıkmamasına olanak sağlar.
+
+InputKontrol Kodu: Mouse tuşlarını aktifleştirmeye ve oyun içerisinde kullanmaya yarar.
+
+PatlamaYokEdici Kodu: Sahnede oluşturulan patlama animasyonlarının sonsuza dek sürmemesi
+için hazırlanan zamanlayıcı.
+
+Spawner Kodu: Her saniye sahnede objelerin oluşturulması için spawnlama tekniği.
+
+Tetikleyici:
+
+UzayGemisiKontrol Kodu: Sahnedeki uzay gemisi nesnesine belirli bir kuvvet uygularak
+yatay ve dikey eksenlerde, klavyedeki tuşların da yardımıyla kontrol ettirilmesi.
+
+YokEdici: Random süre belirlenerek sahnedeki nesnelerin yok edilmesini sağlar.
