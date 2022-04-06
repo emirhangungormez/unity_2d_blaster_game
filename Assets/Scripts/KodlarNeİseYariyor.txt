@@ -1,0 +1,31 @@
+Arkaplan: Oyundaki arkaplan resminin y değerlerini değiştirir, böylece uzay gemisi hareket ediyor izlenimi verilir.
+
+Asteroid: Asteroidlerin kurşun çarpması durumunda yok olmasını sağlar.
+
+EkranHesaplayicisi Kodu: Sahnedeki nesnelerin hareket alanı kamera ile sınırlar.
+
+GeriSayimSayaci Kodu: Sahnedeki nesnelerin ekran içerisinde yer alma süresinin verisini
+içerisinde tutar ve işlem yapmamızda kolaylık sağlar.
+
+HareketKontrol: Nesnelerin hareketinin kamera dışına çıkmamasına olanak sağlar.
+
+OyunKontrol: Oyundaki asteroidleri oyunun başlamasına ve sonlanmasına göre oluşturur ve yok eder.
+
+PatlamaYokEdici Kodu: Sahnede oluşturulan patlama animasyonlarının sonsuza dek sürmemesi
+için hazırlanan zamanlayıcı.
+
+Tetikleyici: EkranHesaplayicisi koduna erişim sağlar.
+
+Kursun: Kurşun oluşturur ve hiyerarşi kısmında istenilmeyen kurşun nesnelerinin oluşmaması için kurşunları
+zamanlayıcıya bağlı olarak yok eder.
+
+GemiKontrol Kodu: Sahnedeki uzay gemisi nesnesine belirli bir kuvvet uygularak
+yatay ve dikey eksenlerde, klavyedeki tuşların da yardımıyla kontrol ettirilmesi.
+
+YokEdici: Random süre belirlenerek sahnedeki nesnelerin yok edilmesini sağlar.
+
+UIKontrol: "oyunBittiText", "oyunAdiText", "oynaButon" ve "puanText" text nesnelerini sahnede
+oyunun başlaması ve bitmesine göre var edip yok edilmesi. Aynı zamanda boyutlarına göre sınıflandırılan
+gök taşlarının skora farklı etki etmesi mekanizması.
+
+SesKontrol: "asteroidPatlama", "asteroidPatlama" ve "ates" seslerinin kontrolü.
