@@ -1,8 +1,6 @@
-# Unity 2D Oyun 2
-Bu çalışmada herhangi bir oyunlaştırma yapılmamıştır. Bu sebeple; skor, menü, senaryo yönetimi gibi etkenlerin eksikliğini hissedebilirsiniz. Bu çalışmada, oyunlarınızda
-kullanabileceğiniz basit class'lar ve fonksiyonlar kullanılmıştır. "Scripts" klasöründen "KodlarNeIseYariyor" text'ini inceleyerek ayrıntıları görebilirsiniz.
+# Unity 2D Blaster Oyunu (Uzay Oyunu)
+Bu çalışmada blaster tarzında basit bir 2d uzay oyunu yapılmıştır. Uzay gemisi önüne çıkan göktaşlarına ateş ederek skorunu artırmaktadır. Ve göktaşlarından herhangi birine çarptığında oyun sonlanmaktadır.
 
 ---------
 
-No gamification has been made on this. In this study; There is no score and menu management, it contains more simple "class" codes. Examine part "KodlarNeIseYariyor"
-from part "Scripts", so you can know the details.
+In this study, a simple 2d space game in the style of blaster was made. The spaceship increases its score by shooting at the meteorites that appear in front of it. And when it hits any of the meteors, the game is over.
