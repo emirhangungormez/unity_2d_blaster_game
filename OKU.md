@@ -1,4 +1,4 @@
-# Unity 2D Blaster Oyunu (Uzay Oyunu)
+# Unity - 2D Blaster Game
 • Bu çalışmada blaster tarzında basit bir 2d uzay oyunu yapılmıştır. Uzay gemisi önüne çıkan göktaşlarına ateş ederek skorunu artırmaktadır. Ve göktaşlarından herhangi birine çarptığında oyun sonlanmaktadır.
 
 ---------
